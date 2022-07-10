@@ -38,7 +38,7 @@
 
 ### 여러명
 - [Private] 창업동아리(COURR)에서 진행한 프로젝트 ( 3인 )
-- [Public] ActivityPlanner_2 > 대외활동(공모전, 인턴, 강연) 추천서비스 ( 5인 )
+- [Public] ActivityPlanner_2 > 추천 알고리즘을 활용한 대외활동 추천서비스 ( 5인 )
 - [Private] Parking-duty > 엣지 컴퓨팅을 활용한 불법주정차 단속 프로젝트 ( 5인 + 1인 [한국전자기술연구원(KETI) 팀장님] )
 ### 개인
 - [Public] PS > Baekjoon, Programmers, Codeforces, LeetCode, TopCoder, SWEA에서 푼 문제 기록
