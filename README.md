@@ -28,25 +28,29 @@
 - 2021 창업동아리 COURR 활동
 
 ## 교외활동
-- [수료] 2021 NIPA AI 
+- [수료] 2021 NIPA AI 온라인 교육
 - [수료] 2021 SMHRD 인공지능 융합서비스 개발과정
 - [진행중] 2022 H-Mobility Class(하)
 - [진행중] 2022 LG Aimers
 - [진행중] 2022 하계 SDS 대학생 알고리즘 특강
 
-## 
-#### 여러명
+## 프로젝트
+
+### 여러명
 - [Private] 창업동아리(COURR)에서 진행한 프로젝트 ( 3인 )
 - [Public] ActivityPlanner_2 > 대외활동(공모전, 인턴, 강연) 추천서비스 ( 5인 )
 - [Private] Parking-duty > 엣지 컴퓨팅을 활용한 불법주정차 단속 프로젝트 ( 5인 + 1인 [한국전자기술연구원(KETI) 팀장님] )
-#### 개인
+### 개인
 - [Public] PS > Baekjoon, Programmers, Codeforces, LeetCode, TopCoder, SWEA에서 푼 문제 기록
+- [예정] 주차경로추천서비스 - 
+- [예정] 알고리즘 학습 서비스
 
 ## 자격증
-- SQLD
+- 인공지능 자격전문가 - 한국표준협회장
+- SQLD - Kdata
 
 ## 현재 나의 목표
 - 많은 활동들을 통해 경험하고 배우기
 - 알고리즘 숙달하기
-- C++ 배우기
+- C++ 배우기 (with SWEA강의)
 - 인턴 도전
