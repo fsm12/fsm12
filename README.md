@@ -34,10 +34,19 @@
 - 2022 LG Aimers 진행중
 - 2022 하계 SDS 대학생 알고리즘 특강 진행중
 
+## 나의 Repo
+#### 여러명
+- [Private] 창업동아리(COURR)에서 진행한 프로젝트 ( 3인 )
+- [Public] ActivityPlanner_2 > 대외활동(공모전, 인턴, 강연) 추천서비스 ( 5인 )
+- [Private] Parking-duty > 엣지 컴퓨팅을 활용한 불법주정차 단속 프로젝트 ( 5인 + 1인 [한국전자기술연구원(KETI) 팀장님] )
+#### 개인
+- [Public] PS > Baekjoon, Programmers, Codeforces, LeetCode, TopCoder, SWEA에서 푼 문제 기록
+
 ## 자격증
 - SQLD
 
 ## 현재 나의 목표
 - 많은 활동들을 통해 경험하고 배우기
 - 알고리즘 숙달하기
+- C++ 배우기
 - 인턴 도전
