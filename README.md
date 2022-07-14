@@ -42,7 +42,7 @@
 - [Private] Parking-duty > 엣지 컴퓨팅을 활용한 불법주정차 단속 프로젝트 ( 5인 + 1인 [한국전자기술연구원(KETI) 팀장님] )
 ### 개인
 - [Public] PS > Baekjoon, Programmers, Codeforces, LeetCode, TopCoder, SWEA에서 푼 문제 기록
-- [예정] 주차경로추천서비스 : 졸작
+- [Private] Parking-Route-Recommandation > 주차경로 추천시스템 : 졸작
 - [예정] 알고리즘 학습 서비스
 
 ## 자격증
