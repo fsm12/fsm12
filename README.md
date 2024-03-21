@@ -1,3 +1,5 @@
+<div align="center"> 
+
 <img src="https://komarev.com/ghpvc/?username=fsm12" alt="방문자 수"> [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fsm1204)](https://solved.ac/fsm1204)  
 
@@ -10,7 +12,7 @@
 새로 배운 **지식**부터 공유하고 싶은 **경험**까지 차곡차곡 **문서화**하고 있습니다.  
 적절한 **아키텍쳐**를 선택하고 **TDD**를 기반으로 원활하게 프로젝트를 수행할 수 있는 개발자가 되겠습니다.  
 
-</br>
+</br></br>
 
 ### 🛠  Technical Skills
 |분류|사용|
@@ -24,16 +26,17 @@
 |AI|<img src="https://img.shields.io/badge/tensorflow-2088FF?style=flat&logo=tensorflow&logoColor=white"/>  |
 |협업|<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/webex-000000?style=flat&logo=webex&logoColor=white"/> <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/> |
 
-</br>
+</br></br>
 
 ### 🤝🏻 Link
 <img src="https://img.shields.io/badge/Portfolio-Web-0969da" alt="포트폴리오 web"> <a href="https://github.com/fsm12/fsm12/files/14685728/fsm12.Portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF-0969da" alt="포트폴리오 ppt"></a>  
 <a href="https://velog.io/@2024-11th/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="mailto:fsm12041204@gmail.com"><img src="https://img.shields.io/badge/fsm12041204@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"/></a>
-
-</br>
-
+  
+</br></br>
+  
 ### 💻  GitHub Analytics
 
 <img src = "./profile-3d-contrib/profile-green-animate.svg">  
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&animation=fadeIn&height=130)
+</div>
