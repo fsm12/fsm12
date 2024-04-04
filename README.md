@@ -30,7 +30,7 @@
 
 ### 🤝🏻 Link
 <img src="https://img.shields.io/badge/Portfolio-Web-0969da" alt="포트폴리오 web"> <a href="https://github.com/fsm12/fsm12/files/14685728/fsm12.Portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF-0969da" alt="포트폴리오 ppt"></a>  
-<a href="https://velog.io/@2024-11th/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="mailto:fsm12041204@gmail.com"><img src="https://img.shields.io/badge/fsm12041204@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"/></a>
+<a href="https://velog.io/@2024-11th/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://medium.com/@fsm12"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a> <a href="mailto:fsm12041204@gmail.com"><img src="https://img.shields.io/badge/fsm12041204@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"/></a>
   
 </br></br>
   
